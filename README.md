@@ -5,7 +5,7 @@ Welcome to the ultimate Rock Paper Scissors experience! Whether you're here to r
 
 In this game, you can:
 
-Challenge yourself against a friend or the computer
+Challenge yourself against the computer
 
 Test your strategic thinking and quick decision-making
 
